@@ -12,7 +12,7 @@ echo "This is some important code" > file.txt
 
 git add file.txt
 
-git commit -m "add important code"
+git commit -m "Added important code"
 
 git checkout -b quickfix HEAD~1
 
